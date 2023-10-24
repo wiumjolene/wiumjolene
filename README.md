@@ -1,8 +1,5 @@
 # Jolene Wium, PhD
 
-I enjoy Python and all things data.
-
-## Technologies
 * Python
 * Django
 * Dash and Plotly
