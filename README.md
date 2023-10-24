@@ -6,7 +6,7 @@
 * Power BI
 * MySQL
 * MS SQL
-* Snowflake (recently)
+* Snowflake
   
 
 <!--
