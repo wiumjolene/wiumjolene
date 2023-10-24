@@ -1,4 +1,16 @@
-### Hi there 👋
+# Jolene Wium, PhD
+
+I enjoy Python and all things data.
+
+## Technologies
+* Python
+* Django
+* Dash and Plotly
+* Power BI
+* MySQL
+* MS SQL
+* Snowflake (recently)
+  
 
 <!--
 **wiumjolene/wiumjolene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
